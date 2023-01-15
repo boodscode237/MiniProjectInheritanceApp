@@ -1,0 +1,15 @@
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/MiniProjectInheritance.csproj.AssemblyReference.cache
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/MiniProjectInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/MiniProjectInheritance.AssemblyInfoInputs.cache
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/MiniProjectInheritance.AssemblyInfo.cs
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/MiniProjectInheritance.csproj.CoreCompileInputs.cache
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/bin/Debug/net7.0/MiniProjectInheritance
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/bin/Debug/net7.0/MiniProjectInheritance.deps.json
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/bin/Debug/net7.0/MiniProjectInheritance.runtimeconfig.json
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/bin/Debug/net7.0/MiniProjectInheritance.dll
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/bin/Debug/net7.0/MiniProjectInheritance.pdb
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/MiniProjectInheritance.dll
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/refint/MiniProjectInheritance.dll
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/MiniProjectInheritance.pdb
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/MiniProjectInheritance.genruntimeconfig.cache
+/home/kodnashion/RiderProjects/MiniProjectInheritanceApp/MiniProjectInheritance/obj/Debug/net7.0/ref/MiniProjectInheritance.dll
